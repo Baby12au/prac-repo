@@ -6,4 +6,3 @@ This is from feature-3
 This is from latest branch
 commit-1
 commit-2
-commit-3
