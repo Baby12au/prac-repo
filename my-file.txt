@@ -7,4 +7,3 @@ This is from latest branch
 commit-1
 commit-2
 commit-3
-This is to test revert
